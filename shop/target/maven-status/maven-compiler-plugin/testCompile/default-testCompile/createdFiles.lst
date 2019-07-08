@@ -1,0 +1,10 @@
+boot\ProductApplicationTests.class
+boot\UserApplicationTests.class
+boot\ShopApplicationTests.class
+boot\StockApplicationTests.class
+boot\AbstractTestBase.class
+boot\OutputApplicationTests.class
+boot\InputApplicationTests.class
+boot\ManagerApplicationTests.class
+boot\MockSecurityContext.class
+boot\AutentificationMocks.class
